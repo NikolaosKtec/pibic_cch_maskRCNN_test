@@ -8,6 +8,6 @@ cython
 matplotlib
 scikit-image
 opencv-python
-h5py
+h5py==2.10.0
 imgaug
 IPython[all]
