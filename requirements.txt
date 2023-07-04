@@ -9,5 +9,5 @@ matplotlib
 scikit-image==0.18.1
 opencv-python
 h5py==2.10.0
-imgaug
+imgaug==0.2.*
 IPython[all]
